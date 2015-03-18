@@ -1,0 +1,41 @@
+{
+	"tenant": "dsn",
+	"login": "admin",
+	"roles": {
+		"list": [
+			"admin"
+		],
+		"default": "admin"
+	},
+	"rights": [
+		"accessRealm::studio",
+		"manageUsers::CustomUsers",
+		"manageUsers::StaffUsers",
+		"listUsers::CustomUsers",
+		"listUsers::StaffUsers",
+		"executeAny::dataquery",
+		"assignAny::CustomRoles",
+		"assignAny::StaffRoles",
+		"assignStaffRole::admin",
+		"assignStaffRole::developer",
+		"manageRoles::CustomRoles",
+		"assignRight::accessRealm",
+		"assignRight::DATAQUERY",
+		"assignRight::executeAny::dataquery",
+		"assignRight::manageUsers::CustomUsers",
+		"assignRight::listUsers::CustomUsers",
+		"assignRight::listUsers::StaffUsers",
+		"assignRight::assignAny::CustomRoles",
+		"assignRight::assignAny::StaffRoles",
+		"assignRight::assignStaffRole::admin",
+		"assignRight::assignStaffRole::developer",
+		"assignRight::manageRoles::CustomRoles"
+	],
+	"email": null,
+	"type": "",
+	"lastName": "",
+	"firstName": "",
+	"kind": "system",
+	"_id": "55097c22a9f5e3a0170b664c",
+	"access_token": "ac66bcdc754dee22e4296a557b0c75f1eac9f5dd"
+}
