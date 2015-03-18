@@ -1,0 +1,13 @@
+{
+	"_id": "55031dc4e28ab93339058627",
+	"type": "menu-item",
+	"application": "conciliator",
+	"role": "user",
+	"name": "Operation",
+	"attributes": [
+		{
+			"name": "visible",
+			"value": "true"
+		}
+	]
+}

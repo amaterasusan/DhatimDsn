@@ -1,0 +1,17 @@
+{
+	"_id": "55084210dd8eed642011108a",
+	"type": "gcontrol",
+	"id": "84438",
+	"application": "conciliator",
+	"role": "user",
+	"name": "lnkLink1",
+	"widget": "wOperationLeftMenu",
+	"widgetid": "4880",
+	"screen": "operation",
+	"attributes": [
+		{
+			"name": "display",
+			"value": "false"
+		}
+	]
+}
