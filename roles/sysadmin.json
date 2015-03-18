@@ -1,0 +1,13 @@
+{
+	"_id": "5502de55e01b40dd270d7cf9",
+	"description": "sysadmi",
+	"name": "sysadmin",
+	"rights": [
+		"DATAQUERY::qGetOpCodes",
+		"DATAQUERY::qLogin",
+		"DATAQUERY::qOpRunCreate",
+		"DATAQUERY::qOperationMain"
+	],
+	"type": "",
+	"unremovable": false
+}

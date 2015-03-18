@@ -1,0 +1,13 @@
+{
+	"_id": "54f453c595f9f010145eb41e",
+	"description": "user",
+	"name": "user",
+	"rights": [
+		"DATAQUERY::qGetOpCodes",
+		"DATAQUERY::qLogin",
+		"DATAQUERY::qOpRunCreate",
+		"DATAQUERY::qOperationMain"
+	],
+	"type": "",
+	"unremovable": false
+}
