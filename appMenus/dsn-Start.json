@@ -1,0 +1,15 @@
+{
+	"_id": "551159223414dde81a952eb1",
+	"action": {
+		"type": "screen",
+		"value": "start"
+	},
+	"application": "dsn",
+	"icon": "",
+	"name": "Start",
+	"order": "0",
+	"ownerId": "",
+	"parentname": "",
+	"requestDate": "2015-03-24T14:38:55.345Z",
+	"title": "Start"
+}

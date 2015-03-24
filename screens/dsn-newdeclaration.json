@@ -1,0 +1,32 @@
+{
+	"_id": "551176da3414dde81a952eba",
+	"application": "dsn",
+	"category": "",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wNewDeclaration",
+								"id": "17577"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"name": "newdeclaration",
+	"ownerId": "",
+	"requestDate": "2015-03-24T14:38:29.484Z",
+	"title": "newdeclaration",
+	"visibility": "visible"
+}
