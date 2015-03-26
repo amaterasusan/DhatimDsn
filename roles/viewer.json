@@ -1,8 +1,11 @@
 {
 	"_id": "551360a14b11902d030b05e0",
+	"description": "",
 	"name": "viewer",
-	"rights": [],
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
 	"type": "",
-	"unremovable": false,
-	"description": ""
+	"unremovable": false
 }

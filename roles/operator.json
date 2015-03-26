@@ -3,10 +3,8 @@
 	"description": "Operation Engineer",
 	"name": "operator",
 	"rights": [
-		"DATAQUERY::qGetOpCodes",
-		"DATAQUERY::qLogin",
-		"DATAQUERY::qOpRunCreate",
-		"DATAQUERY::qOperationMain"
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
 	],
 	"type": "",
 	"unremovable": false
