@@ -1,5 +1,5 @@
 {
-	"tenant": "dsn",
+	"tenant": "dhatimDSN",
 	"login": "admin",
 	"roles": {
 		"list": [
@@ -36,6 +36,6 @@
 	"lastName": "",
 	"firstName": "",
 	"kind": "system",
-	"_id": "55097c22a9f5e3a0170b664c",
+	"_id": "5509165424c8462f023fd3ff",
 	"access_token": "ac66bcdc754dee22e4296a557b0c75f1eac9f5dd"
 }

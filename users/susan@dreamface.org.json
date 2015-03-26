@@ -1,0 +1,21 @@
+{
+	"tenant": "dhatimDSN",
+	"login": "susan@dreamface.org",
+	"roles": {
+		"list": [
+			"Administrator",
+			"anonymised_viewer",
+			"guest",
+			"uploader",
+			"viewer"
+		],
+		"default": "viewer"
+	},
+	"rights": [],
+	"email": null,
+	"type": "",
+	"lastName": "Haimet",
+	"firstName": "Susan",
+	"kind": "application",
+	"_id": "5513631c4b11902d030b05e4"
+}
