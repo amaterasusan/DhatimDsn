@@ -8,7 +8,12 @@
 			"size": "<strong>32.1</strong> KB"
 		},
 		{
-			"path": "dreamface-studio-dropzone.min.css",
+			"path": "uploadFiles.js",
+			"type": "JavaScript",
+			"size": "<strong>1.6</strong> KB"
+		},
+		{
+			"path": "upload.min.css",
 			"type": "CSS",
 			"size": "<strong>9.7</strong> KB"
 		}
