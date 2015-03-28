@@ -16,7 +16,7 @@
 	"persistence": "none",
 	"postcode": [],
 	"precode": [],
-	"requestDate": "2015-03-18T20:03:05.618Z",
+	"requestDate": "2015-03-28T12:11:38.164Z",
 	"selector": ":root",
 	"service": {
 		"name": "",
@@ -29,7 +29,7 @@
 		"typerequest": "HTTP_GET",
 		"urlrandom": "0",
 		"auth_userid": "",
-		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers",
+		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers/987654321",
 		"dbdriver": "",
 		"dbnames": {
 			"database": "",
@@ -40,7 +40,7 @@
 	"update_comment": "",
 	"versioning": {
 		"DhatimDsn": {
-			"last_action": "1426709116",
+			"last_action": "1427546297",
 			"status": "committed",
 			"user": "admin"
 		}
