@@ -3,6 +3,7 @@
 	"description": "sysadmi",
 	"name": "sysadmin",
 	"rights": [
+		"DATAQUERY::qGetCustomers",
 		"DATAQUERY::qGetDeclarations",
 		"DATAQUERY::qPostDeclaration"
 	],
