@@ -9,14 +9,18 @@
 	"lock": {
 		"status": "unlocked"
 	},
-	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"id\":{\"name\":\"id\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"id\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"id\"},\"styles\":{}}]},\"children\":{}},\"name\":{\"name\":\"name\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"name\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"name\"},\"styles\":{}}]},\"children\":{}},\"created\":{\"name\":\"created\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"created\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"created\"},\"styles\":{}}]},\"children\":{}}}}",
+	"metadata": {
+		"name": "root",
+		"type": "root",
+		"children": {}
+	},
 	"name": "qGetCustomers",
 	"ownerId": "",
 	"parameters": [],
 	"persistence": "none",
 	"postcode": [],
 	"precode": [],
-	"requestDate": "2015-03-28T12:11:38.164Z",
+	"requestDate": "2015-03-30T07:53:45.661Z",
 	"selector": ":root",
 	"service": {
 		"name": "",
@@ -29,7 +33,7 @@
 		"typerequest": "HTTP_GET",
 		"urlrandom": "0",
 		"auth_userid": "",
-		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers/987654321",
+		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers",
 		"dbdriver": "",
 		"dbnames": {
 			"database": "",
@@ -40,7 +44,7 @@
 	"update_comment": "",
 	"versioning": {
 		"DhatimDsn": {
-			"last_action": "1427546297",
+			"last_action": "1427713165",
 			"status": "committed",
 			"user": "admin"
 		}

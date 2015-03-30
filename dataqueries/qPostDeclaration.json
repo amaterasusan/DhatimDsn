@@ -1,8 +1,38 @@
 {
-	"selector": ":root",
-	"update_comment": "",
+	"_id": "5511ba1c3414dde81a952eda",
+	"appexpr": [],
+	"category": "567",
+	"connector": "http",
+	"dependency": "",
+	"description": "",
+	"format": "json",
+	"lock": {
+		"status": "unlocked"
+	},
+	"metadata": {
+		"name": "root",
+		"type": "root",
+		"children": {}
+	},
+	"name": "qPostDeclaration",
 	"ownerId": "",
+	"parameters": [
+		{
+			"name": "id",
+			"type": "url",
+			"value": "712042456",
+			"operation": "eq"
+		}
+	],
 	"persistence": "none",
+	"postcode": [],
+	"precode": [],
+	"requestDate": "2015-03-30T10:04:51.572Z",
+	"selector": ":root",
+	"service": {
+		"name": "",
+		"method": ""
+	},
 	"settings": {
 		"postrequestbody": "",
 		"authentication": "none",
@@ -10,44 +40,21 @@
 		"typerequest": "HTTP_POST",
 		"urlrandom": "0",
 		"auth_userid": "",
-		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers/712042456/declarations",
+		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers/{id}/declarations",
 		"dbdriver": "",
 		"dbnames": {
 			"database": "",
 			"collection": ""
 		}
 	},
-	"appexpr": [],
-	"format": "json",
-	"dependency": "",
-	"category": "567",
-	"description": "",
-	"name": "qPostDeclaration",
-	"connector": "http",
-	"requestDate": "2015-03-24T19:25:16.839Z",
-	"parameters": [],
-	"metadata": {
-		"name": "root",
-		"type": "root",
-		"children": {}
-	},
 	"source": "ext",
-	"visibility": "visible",
-	"lock": {
-		"status": "unlocked"
-	},
-	"precode": [],
-	"postcode": [],
-	"service": {
-		"name": "",
-		"method": ""
-	},
-	"_id": "5511ba1c3414dde81a952eda",
+	"update_comment": "",
 	"versioning": {
 		"DhatimDsn": {
-			"last_action": "1427390564",
+			"last_action": "1427713165",
 			"status": "committed",
 			"user": "admin"
 		}
-	}
+	},
+	"visibility": "visible"
 }
