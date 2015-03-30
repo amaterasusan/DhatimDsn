@@ -1,6 +1,6 @@
 {
 	"_id": "551360a14b11902d030b05e0",
-	"description": "",
+	"description": "Allowed to view data and controls",
 	"name": "viewer",
 	"rights": [
 		"DATAQUERY::qGetDeclarations",

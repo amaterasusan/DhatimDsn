@@ -1,6 +1,6 @@
 {
 	"_id": "551360e04b11902d030b05e1",
-	"description": "",
+	"description": "Allowed to upload a DSN file.",
 	"name": "uploader",
 	"rights": [
 		"DATAQUERY::qGetDeclarations",
