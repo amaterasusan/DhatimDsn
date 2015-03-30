@@ -3,11 +3,6 @@
 	"description": "",
 	"items": [
 		{
-			"path": "dropzone-min.js",
-			"type": "JavaScript",
-			"size": "<strong>32.1</strong> KB"
-		},
-		{
 			"path": "uploadFiles.js",
 			"type": "JavaScript",
 			"size": "<strong>1.6</strong> KB"
@@ -16,6 +11,11 @@
 			"path": "upload.min.css",
 			"type": "CSS",
 			"size": "<strong>9.7</strong> KB"
+		},
+		{
+			"path": "dropzone-min.js",
+			"type": "JavaScript",
+			"size": "<strong>32.1</strong> KB"
 		}
 	],
 	"name": "dsnResource"
