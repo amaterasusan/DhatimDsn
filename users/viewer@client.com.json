@@ -1,0 +1,21 @@
+{
+	"tenant": "dhatimDSN",
+	"login": "viewer@client.com",
+	"roles": {
+		"list": [
+			"guest",
+			"viewer"
+		],
+		"default": "viewer"
+	},
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": "viewer@client.com",
+	"type": "",
+	"lastName": "Client",
+	"firstName": "Viewer",
+	"kind": "application",
+	"_id": "5519685fcc735caa02d7494a"
+}
