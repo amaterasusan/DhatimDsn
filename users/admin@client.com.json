@@ -1,15 +1,13 @@
 {
 	"tenant": "dhatimDSN",
-	"login": "susan@dreamface.org",
+	"login": "admin@client.com",
 	"roles": {
 		"list": [
 			"administrator",
-			"anonymised_viewer",
-			"guest",
 			"uploader",
 			"viewer"
 		],
-		"default": "viewer"
+		"default": "administrator"
 	},
 	"rights": [
 		"DATAQUERY::gGetDeclarations",
@@ -19,10 +17,10 @@
 		"DATAQUERY::qGetDescriptions",
 		"DATAQUERY::qPostDeclaration"
 	],
-	"email": null,
+	"email": "admin@client.com",
 	"type": "",
-	"lastName": "Haimet",
-	"firstName": "Susan",
+	"lastName": "Client",
+	"firstName": "Admin",
 	"kind": "application",
-	"_id": "5513631c4b11902d030b05e4"
+	"_id": "5518926acc735caa02d74936"
 }

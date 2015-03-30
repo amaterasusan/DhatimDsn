@@ -1,0 +1,20 @@
+{
+	"tenant": "dhatimDSN",
+	"login": "anon@client.com",
+	"roles": {
+		"list": [
+			"anonymised_viewer"
+		],
+		"default": "anonymised_viewer"
+	},
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": "anon@client.com",
+	"type": "",
+	"lastName": "Client",
+	"firstName": "Anonymous",
+	"kind": "application",
+	"_id": "55189345cc735caa02d74938"
+}
