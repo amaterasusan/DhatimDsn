@@ -1,0 +1,23 @@
+{
+	"tenant": "dhatimDsn",
+	"login": "testUser",
+	"roles": {
+		"list": [
+			"anonymised_viewer",
+			"user",
+			"viewer"
+		],
+		"default": "user"
+	},
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": null,
+	"type": "",
+	"lastName": "",
+	"firstName": "",
+	"kind": "application",
+	"_id": "55099bfd77b7d7681f491592",
+	"pass": "123456"
+}

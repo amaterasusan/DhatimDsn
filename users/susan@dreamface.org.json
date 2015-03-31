@@ -1,0 +1,26 @@
+{
+	"tenant": "dhatimDsn",
+	"login": "susan@dreamface.org",
+	"roles": {
+		"list": [
+			"Administrator",
+			"anonymised_viewer",
+			"guest",
+			"uploader",
+			"viewer"
+		],
+		"default": "viewer"
+	},
+	"rights": [
+		"DATAQUERY::qGetCustomers",
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": null,
+	"type": "",
+	"lastName": "Haimet",
+	"firstName": "Susan",
+	"kind": "application",
+	"_id": "55143deefc8df36c1b084bf5",
+	"pass": "123456"
+}

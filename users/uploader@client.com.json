@@ -1,0 +1,22 @@
+{
+	"tenant": "dhatimDsn",
+	"login": "uploader@client.com",
+	"roles": {
+		"list": [
+			"anonymised_viewer",
+			"uploader"
+		],
+		"default": "uploader"
+	},
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": "uploader@client.com",
+	"type": "",
+	"lastName": "Client",
+	"firstName": "Uploader",
+	"kind": "application",
+	"_id": "55192d4aaafbcb4410a6b461",
+	"pass": "123456"
+}

@@ -1,0 +1,26 @@
+{
+	"tenant": "dhatimDsn",
+	"login": "admin@client.com",
+	"roles": {
+		"list": [
+			"administrator",
+			"uploader",
+			"viewer"
+		],
+		"default": "administrator"
+	},
+	"rights": [
+		"DATAQUERY::qCreateCustomer",
+		"DATAQUERY::qGetCustomers",
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qGetDescriptions",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": "admin@client.com",
+	"type": "",
+	"lastName": "Client",
+	"firstName": "Admin",
+	"kind": "application",
+	"_id": "55192d4aaafbcb4410a6b460",
+	"pass": "123456"
+}

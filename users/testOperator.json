@@ -1,0 +1,21 @@
+{
+	"tenant": "dhatimDsn",
+	"login": "testOperator",
+	"roles": {
+		"list": [
+			"operator"
+		],
+		"default": "operator"
+	},
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"email": null,
+	"type": "",
+	"lastName": "",
+	"firstName": "",
+	"kind": "application",
+	"_id": "55099bfd77b7d7681f491591",
+	"pass": "123456"
+}
