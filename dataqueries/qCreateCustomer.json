@@ -16,11 +16,18 @@
 	},
 	"name": "qCreateCustomer",
 	"ownerId": "",
-	"parameters": [],
+	"parameters": [
+		{
+			"name": "DSN-User-Role",
+			"type": "header",
+			"value": "Dhatim administrator",
+			"operation": "eq"
+		}
+	],
 	"persistence": "none",
 	"postcode": [],
 	"precode": [],
-	"requestDate": "2015-03-28T12:37:15.324Z",
+	"requestDate": "2015-03-30T20:21:34.077Z",
 	"selector": ":root",
 	"service": {
 		"name": "",
@@ -28,7 +35,7 @@
 	},
 	"settings": {
 		"postrequestbody": {
-			"id": "987654321",
+			"id": "123321123",
 			"name": "mytest"
 		},
 		"authentication": "none",
@@ -47,7 +54,7 @@
 	"update_comment": "",
 	"versioning": {
 		"DhatimDsn": {
-			"last_action": "1427546297",
+			"last_action": "1427830135",
 			"status": "committed",
 			"user": "admin"
 		}
