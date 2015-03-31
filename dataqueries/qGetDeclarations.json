@@ -1,0 +1,56 @@
+{
+	"_id": "5511b9cd3414dde81a952ed9",
+	"appexpr": [],
+	"category": "cat123",
+	"connector": "http",
+	"dependency": "",
+	"description": "",
+	"format": "json",
+	"lock": {
+		"status": "unlocked"
+	},
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"error retrieving metadata\":\"\"}}",
+	"name": "qGetDeclarations",
+	"ownerId": "",
+	"parameters": [
+		{
+			"name": "id",
+			"type": "url",
+			"value": "987654321",
+			"operation": "eq"
+		}
+	],
+	"persistence": "none",
+	"postcode": [],
+	"precode": [],
+	"requestDate": "2015-03-30T10:02:28.897Z",
+	"selector": ":root",
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_GET",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://10.0.10.15:8080/dsn-server-0.1-SNAPSHOT/api/v0/customers/{id}/declarations",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"source": "ext",
+	"update_comment": "",
+	"versioning": {
+		"DhatimDsn": {
+			"last_action": "1427831440",
+			"status": "committed",
+			"user": "admin"
+		}
+	},
+	"visibility": "visible"
+}
