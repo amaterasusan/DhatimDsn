@@ -1,0 +1,78 @@
+{
+	"_id": "55098289a9f5e3a0170b665a",
+	"active": true,
+	"applicationContext": [
+		{
+			"properties": [
+				{
+					"possibleValues": [],
+					"name": "selectedItem",
+					"value": ""
+				}
+			],
+			"object": "menu"
+		}
+	],
+	"creationDate": "2015-03-18T13:50:01.002Z",
+	"github": {
+		"token": "",
+		"username": "",
+		"repository": ""
+	},
+	"name": "dsn",
+	"ownerId": "",
+	"personalization": {
+		"template": "Standard"
+	},
+	"phonegap": {
+		"token": "",
+		"applicationId": ""
+	},
+	"platform": "web",
+	"requestDate": "",
+	"requiredLibraries": [],
+	"requiredStylesheets": [
+		{
+			"name": "_gc"
+		},
+		{
+			"name": "_ext"
+		}
+	],
+	"screenflow": [
+		{
+			"name": "Guest",
+			"left": "85",
+			"connections": [
+				{
+					"assertions": [],
+					"name": "Home"
+				}
+			],
+			"type": "http_guest",
+			"top": "150"
+		},
+		{
+			"name": "Home",
+			"left": "330",
+			"connections": [],
+			"type": "screen",
+			"top": "165"
+		}
+	],
+	"start": "Home",
+	"title": "",
+	"versioning": {
+		"DhatimDsn": {
+			"last_action": "1427831343",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dfx-samples": {
+			"status": "modified",
+			"user": "admin",
+			"last_action": "1427722309"
+		}
+	},
+	"visibility": "visible"
+}
