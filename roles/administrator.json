@@ -1,0 +1,14 @@
+{
+	"_id": "551890bacc735caa02d74932",
+	"description": "Can access the user administration screen.",
+	"name": "administrator",
+	"rights": [
+		"DATAQUERY::qCreateCustomer",
+		"DATAQUERY::qGetCustomers",
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qGetDescriptions",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"type": "",
+	"unremovable": false
+}

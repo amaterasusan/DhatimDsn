@@ -1,0 +1,11 @@
+{
+	"_id": "5513612a4b11902d030b05e2",
+	"description": "Allowed to view anonymised data and controls.",
+	"name": "anonymised_viewer",
+	"rights": [
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"type": "",
+	"unremovable": false
+}

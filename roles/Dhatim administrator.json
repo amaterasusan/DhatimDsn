@@ -1,0 +1,14 @@
+{
+	"_id": "55189079cc735caa02d74931",
+	"description": "Can access the Dhatim user administration screen.",
+	"name": "Dhatim administrator",
+	"rights": [
+		"DATAQUERY::qCreateCustomer",
+		"DATAQUERY::qGetCustomers",
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qGetDescriptions",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"type": "",
+	"unremovable": false
+}

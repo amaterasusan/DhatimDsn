@@ -1,0 +1,12 @@
+{
+	"_id": "551361894b11902d030b05e3",
+	"description": "Administrateur, can access to user administrator screen, enable/disable users, modify user information, and delete user",
+	"name": "Administrator",
+	"rights": [
+		"DATAQUERY::qGetCustomers",
+		"DATAQUERY::qGetDeclarations",
+		"DATAQUERY::qPostDeclaration"
+	],
+	"type": "",
+	"unremovable": false
+}
