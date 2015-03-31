@@ -1,0 +1,17 @@
+{
+	"_id": "5504434155e8d09226510a70",
+	"type": "gcontrol",
+	"id": "95725",
+	"application": "conciliator",
+	"role": "user",
+	"name": "fieldTextArea1",
+	"widget": "wLogin",
+	"widgetid": "7552",
+	"screen": "Home",
+	"attributes": [
+		{
+			"name": "display",
+			"value": "none"
+		}
+	]
+}
