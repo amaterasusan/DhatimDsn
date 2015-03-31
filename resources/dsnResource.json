@@ -1,0 +1,22 @@
+{
+	"_id": "55149de1c80b62e7241cb044",
+	"description": "",
+	"items": [
+		{
+			"path": "dropzone-min.js",
+			"type": "JavaScript",
+			"size": "<strong>32.1</strong> KB"
+		},
+		{
+			"path": "upload.min.css",
+			"type": "CSS",
+			"size": "<strong>9.6</strong> KB"
+		},
+		{
+			"path": "uploadfiles.js",
+			"type": "JavaScript",
+			"size": "<strong>2.4</strong> KB"
+		}
+	],
+	"name": "dsnResource"
+}
