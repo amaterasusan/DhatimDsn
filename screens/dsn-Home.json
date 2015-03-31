@@ -1,0 +1,32 @@
+{
+	"_id": "55098289a9f5e3a0170b665b",
+	"application": "dsn",
+	"category": "",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wLogin",
+								"id": "58874"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"name": "Home",
+	"ownerId": "",
+	"requestDate": "2015-03-18T13:50:33.623Z",
+	"title": "Home",
+	"visibility": "visible"
+}

@@ -1,0 +1,32 @@
+{
+	"_id": "550982c7a9f5e3a0170b665d",
+	"application": "dsn",
+	"category": "",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wCreateAccount",
+								"id": "78042"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"name": "createaccount",
+	"ownerId": "",
+	"requestDate": "2015-03-18T14:09:48.421Z",
+	"title": "createaccount",
+	"visibility": "visible"
+}
