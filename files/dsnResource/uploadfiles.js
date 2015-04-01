@@ -39,7 +39,7 @@ UploadFiles = (function () {
 				autoProcessQueue: false,
 				maxFiles:         10,
 				parallelUploads:  10,
-				dictDefaultMessage: 'Glisser/DÃ©poser des fichiers ici pour les attacher ou cliquez sur pour sÃ©lectionner les fichiers',
+				dictDefaultMessage: 'Glisser / DÃ©poser les fichiers ici<br />ou<br />Cliquez pour sÃ©lectionner les fichiers',
 				//addRemoveLinks: true,
             	init: function () {
 					resourceDropzone = this;
@@ -60,12 +60,8 @@ UploadFiles = (function () {
 					});
 				}
 			});
-			$('.save_files').click(_submodule.saveFiles);
-		},
-		saveFiles: function (event) {
-			resourceDropzone.processQueue();
+			return resourceDropzone;
 		}
-
 	},
 	submodule = {
 		run: function (parameters) {
@@ -78,9 +74,17 @@ UploadFiles = (function () {
 			if(parameters.siren) {
 				sirenCode = parameters.siren;
 			}
-
-			_submodule.addDropZone(parameters.url);
-			
+			return _submodule.addDropZone(parameters.url);
+		},
+		setRoles: function (roles) {
+			arrRoles = roles;
+		},
+		saveFiles: function (event) {
+			if(resourceDropzone) {
+				resourceDropzone.processQueue();
+			} else {
+				console.log("Undefined DropZone");
+			}
 		}
 	}
 	return submodule;
