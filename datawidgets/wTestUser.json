@@ -10,6 +10,11 @@
 	"src_script": "// this line should not be removed\nvar wTestUser = angular.module(\"wTestUser\",[]);\n\nwTestUser.controller( \"wTestUserController\", function( $scope ) {\n\t$scope.role = $scope.user.roles.list[Ø];\n\t\n});\n",
 	"src_styles": "",
 	"versioning": {
+		"DhatimDsn": {
+			"last_action": "1427928847",
+			"status": "committed",
+			"user": "admin"
+		},
 		"DhatimDSN": {
 			"last_action": "1427842573",
 			"status": "committed",
