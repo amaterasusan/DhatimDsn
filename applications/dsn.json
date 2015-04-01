@@ -20,7 +20,7 @@
 		"repository": ""
 	},
 	"name": "dsn",
-	"ownerId": "",
+	"ownerId": "Dhatim",
 	"personalization": {
 		"template": "Standard"
 	},
@@ -61,17 +61,22 @@
 		}
 	],
 	"start": "Home",
-	"title": "",
+	"title": "Dhatim DSN",
 	"versioning": {
-		"DhatimDsn": {
-			"last_action": "1427831343",
+		"DhatimDSN": {
+			"last_action": "1427896036",
 			"status": "committed",
 			"user": "admin"
+		},
+		"DhatimDsn": {
+			"status": "modified",
+			"user": "admin",
+			"last_action": "1427895834"
 		},
 		"dfx-samples": {
 			"status": "modified",
 			"user": "admin",
-			"last_action": "1427722309"
+			"last_action": "1427895834"
 		}
 	},
 	"visibility": "visible"
