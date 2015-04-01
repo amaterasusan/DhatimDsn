@@ -1,0 +1,15 @@
+{
+	"_id": "551b996d85d36281040397e2",
+	"title": "DhatimAdmin",
+	"name": "DhatimAdmin",
+	"requestDate": "2015-04-01T07:11:45.110Z",
+	"ownerId": "",
+	"application": "dsn",
+	"parentname": "Administration",
+	"order": "1",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "dhatimadmin"
+	}
+}

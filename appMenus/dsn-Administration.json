@@ -1,0 +1,15 @@
+{
+	"_id": "551b992b85d36281040397e1",
+	"title": "Administration",
+	"name": "Administration",
+	"requestDate": "2015-04-01T07:07:23.234Z",
+	"ownerId": "",
+	"application": "dsn",
+	"parentname": "",
+	"order": "2",
+	"icon": "",
+	"action": {
+		"type": "no_action",
+		"value": ""
+	}
+}

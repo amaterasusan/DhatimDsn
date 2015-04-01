@@ -1,0 +1,32 @@
+{
+	"_id": "551b98dc85d36281040397e0",
+	"title": "dhatimadmin",
+	"name": "dhatimadmin",
+	"requestDate": "2015-04-01T07:11:45.107Z",
+	"ownerId": "",
+	"application": "dsn",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wDsnAdmin",
+								"id": "14952"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

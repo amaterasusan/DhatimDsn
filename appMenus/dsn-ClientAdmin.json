@@ -1,0 +1,15 @@
+{
+	"_id": "551b997b85d36281040397e3",
+	"title": "ClientAdmin",
+	"name": "ClientAdmin",
+	"requestDate": "2015-04-01T07:11:29.054Z",
+	"ownerId": "",
+	"application": "dsn",
+	"parentname": "Administration",
+	"order": "0",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "clientadmin"
+	}
+}

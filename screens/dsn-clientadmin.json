@@ -1,0 +1,32 @@
+{
+	"_id": "551b98ad85d36281040397df",
+	"title": "clientadmin",
+	"name": "clientadmin",
+	"requestDate": "2015-04-01T07:11:29.050Z",
+	"ownerId": "",
+	"application": "dsn",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wUserAdmin",
+								"id": "68162"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}
