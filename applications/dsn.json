@@ -61,22 +61,22 @@
 		}
 	],
 	"start": "Home",
-	"title": "Dhatim DSN",
+	"title": "DSN",
 	"versioning": {
-		"DhatimDsn": {
-			"last_action": "1427928892",
+		"DhatimDSN": {
+			"last_action": "1427933914",
 			"status": "committed",
 			"user": "admin"
 		},
-		"DhatimDSN": {
-			"last_action": "1427896036",
-			"status": "committed",
-			"user": "admin"
+		"DhatimDsn": {
+			"status": "modified",
+			"user": "admin",
+			"last_action": "1427933532"
 		},
 		"dfx-samples": {
 			"status": "modified",
 			"user": "admin",
-			"last_action": "1427895834"
+			"last_action": "1427933532"
 		}
 	},
 	"visibility": "visible"
