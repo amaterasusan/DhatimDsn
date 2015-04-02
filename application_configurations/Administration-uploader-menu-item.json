@@ -1,0 +1,13 @@
+{
+	"_id": "551cee1efc4b222c22f57b0d",
+	"type": "menu-item",
+	"application": "dsn",
+	"role": "uploader",
+	"name": "Administration",
+	"attributes": [
+		{
+			"name": "visible",
+			"value": "false"
+		}
+	]
+}
